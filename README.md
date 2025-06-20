@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jerome Hillock and I'm a Sophomore, from Metuchen</h2>
+<h2 align="left">Hi 👋! My name is Jerome Hillock and I'm a Junior, from Metuchen</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on an online top-down shooter with tower defense elements in Unity 6<br><br>- 🌱 I’m currently learning Unity 6<br><br>- 💬 Ask me about Python, Java, JS, TS, C++, Arduino, and Dart<br><br>- 📫 How to reach me: jeromeydawinner@gmail.com<br><br>- ⚡ Fun fact: I love dogs</p>
+<p align="left">- 🔭 I’m currently working on an AI robot with hearing and speaking capabilities<br><br>- 🌱 I’m currently learning Unity 6, C++, and React<br><br>- 💬 Ask me about Python, Java, JS, TS, C++, Arduino, and Dart<br><br>- 📫 How to reach me: jeromeydawinner@gmail.com<br><br>- ⚡ Fun fact: I love dogs</p>
 
 ###
 
