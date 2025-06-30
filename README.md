@@ -8,7 +8,7 @@ Based in Metuchen, NJ, I'm an aspiring developer, and I'm studying to become a r
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,html,css,js,ts,godot,unity,arduino,androidstudio,github,git,pytorch,kotlin,windows,tailwind,nextjs,d3,flutter,postgres,react,py,dart,cs,prisma,vercel,opencv,visualstudio,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,c,html,css,js,ts,rust,godot,unity,arduino,raspberrypi,ros,androidstudio,github,git,pytorch,kotlin,windows,linux,ubuntu,tailwind,nextjs,d3,flutter,postgres,react,py,dart,cs,prisma,vercel,opencv,idea,clion,pycharm,webstorm,visualstudio,vscode&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
