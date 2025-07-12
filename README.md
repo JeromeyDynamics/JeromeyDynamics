@@ -27,14 +27,8 @@ Based in Metuchen, NJ, I'm an aspiring developer, and I'm studying to become a r
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=JeromeyDynamics&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeromeyDynamics&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.roboticgizmos.com%2Fwp-content%2Fuploads%2F2020%2F12%2F30%2FBoston-Dynamics-Robots.gif&f=1&nofb=1&ipt=6ac0aa8b8fa1918193cac4346b316831e870366ad38c3f09700f6ec7a984b4d6"  />
 </div>
-
-## Recent Activity
-<img align="right" height="149" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.roboticgizmos.com%2Fwp-content%2Fuploads%2F2020%2F12%2F30%2FBoston-Dynamics-Robots.gif&f=1&nofb=1&ipt=6ac0aa8b8fa1918193cac4346b316831e870366ad38c3f09700f6ec7a984b4d6"  />
-- **June 20, 2025**: Pushed changes to [AquaArjard2025](https://github.com/JeromeyDynamics/AquaArjard2025) - added the autons.
-- **June 20, 2025**: Pushed changes to [Snake-Vs-Snake-Game-AI](https://github.com/JeromeyDynamics/Snake-Vs-Snake-Game-AI) - tweaked values for AI improvement.
-- **June 19, 2025**: Updated [AquaArjard2025](https://github.com/JeromeyDynamics/AquaArjard2025) - changed naming conventions for better clarity.
-- **June 18, 2025**: Pushed updates to [Auto-Clicker-App](https://github.com/JeromeyDynamics/Auto-Clicker-App) - implemented new features.
 
 ## Certifications
 
