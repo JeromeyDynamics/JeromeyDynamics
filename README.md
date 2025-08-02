@@ -4,7 +4,7 @@ I'm Jerome Hillock Jr., a passionate developer and tech enthusiast with a love f
 
 ## About Me
 
-Based in Metuchen, NJ, I'm an aspiring developer, and I'm studying to become a robotics engineer. I'm the electrical lead/unofficial programming co-lead of Metuchen Momentum, my local FRC team. I love making robots, apps, games, websites, and simulations! I would love to work on projects with others and if you're interested in working with me, contact me at my Gmail.
+Based in Metuchen, NJ, I'm an aspiring developer, and I'm studying to become a robotics engineer. I'm the electrical lead/unofficial programming co-lead of Metuchen Momentum, my local FRC team. I love making robots, apps, games, websites, and simulations! I would love to work on projects with others and if you're interested in working with me, contact me at my Gmail. My repos are the very best of my projects that you can reach out and talk to me about.
 
 ## Skills & Technologies
 
